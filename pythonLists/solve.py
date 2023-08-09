@@ -99,7 +99,9 @@ print(c)
 ## sorting 
 
 a=[3,2,-1,-20,35,32]
-a.sort() ## sort in ascening order
+# sort in ascening order
+a.sort() 
 print(a)
-a.sort(reverse=True) ## sort in descending order
+# sort in descending order
+a.sort(reverse=True) 
 print(a)

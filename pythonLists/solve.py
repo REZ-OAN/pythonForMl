@@ -87,12 +87,14 @@ for i in range(0,n) :
 print(l)
 
 ## splicing of a list
+
+# list[a:b] a to b (exclusive)
 a=[x for x in range(1,21)]
 b=a[1:-2]
 print(b)
 c=a[-5 : -1]
 print(c)
-## list[a:b] a to b (exclusive)
+
 
 ## sorting 
 

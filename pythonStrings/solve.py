@@ -21,6 +21,8 @@ print(s[-3])
 print(s[3])
 print(s[-10])
 print(s[6])
+## strings in python are immutable
+## you can't do s[-3]='1';
 for i in s :
      print(i,end=" ")
 ## by default print() is works as a newline

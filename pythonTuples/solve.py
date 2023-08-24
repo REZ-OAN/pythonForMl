@@ -39,3 +39,7 @@ print(subset)  # Output: (2, 3, 4)
 numbers = (1, 2, 2, 3, 4, 2)
 print(numbers.count(2))   # Output: 3 (count occurrences of 2)
 print(numbers.index(3))   # Output: 3 (index of the first occurrence of 3)
+
+## tuples are immutable 
+# you can't do numbers[1]=100
+

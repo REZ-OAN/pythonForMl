@@ -105,3 +105,15 @@ print(a)
 # sort in descending order
 a.sort(reverse=True) 
 print(a)
+
+## list concatenation
+food = ['pasta','bread','beef curry','mutton curry']
+fruit = ['apple','mango','banana']
+new_food = food+fruit
+
+## we can't do new_food + 'lichi'
+new_food = new_food + ['lichi']
+print(new_food)
+
+print('apple' in new_food )
+print('pasta' in fruit)

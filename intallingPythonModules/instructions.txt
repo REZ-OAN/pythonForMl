@@ -1,0 +1,15 @@
+
+for windows 
+go to cmd and run this as administrator
+
+then write : pip install module_name
+to uninstall
+pip uninstall module_name
+
+for linux
+go to terminal and write this
+ pip3 install module_name
+to uninstall
+ pip3 uninstall module_name
+ for python3
+ module_name -> the name of your module you want to install or uninstall

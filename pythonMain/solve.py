@@ -8,6 +8,7 @@
   then 
   in linux 
   python3 file_name.py
+  
   in windows
   python file_name.py
 
@@ -18,7 +19,7 @@ def cube_(a) :
 
 ## when name is change
 if __name__ == "__main__" :
-  
+
     print("I'm in solve.py ")
     print(cube_(3))
 

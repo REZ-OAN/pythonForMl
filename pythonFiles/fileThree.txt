@@ -1,0 +1,15 @@
+Python is a high-level programming language known for its simplicity and readability. wordCounts : 12
+Guido van Rossum created Python and released its first version in 1991. wordCounts : 12
+Indentation is crucial in Python, as it defines code blocks instead of using braces. wordCounts : 14
+Python's dynamic typing allows variables to change types during runtime. wordCounts : 10
+The Python Software Foundation oversees the development and promotion of the language. wordCounts : 12
+Python's extensive standard library provides modules for various tasks like file handling and networking. wordCounts : 14
+Its versatile nature makes Python suitable for web development, data analysis, AI, and more. wordCounts : 14
+Python's "Zen of Python" captures the language's guiding principles in a set of aphorisms. wordCounts : 14
+Popular web frameworks like Django and Flask are built using Python. wordCounts : 11
+Python's community-driven development ensures a steady stream of new libraries and tools. wordCounts : 12
+Python's syntax emphasizes readability, making it a great language for beginners. wordCounts : 11
+Python's adoption in scientific computing is boosted by libraries like NumPy and SciPy. wordCounts : 13
+Python scripts can be executed on various platforms without modification due to its cross-platform nature. wordCounts : 15
+The Python Package Index (PyPI) hosts a vast collection of third-party libraries. wordCounts : 12
+Python's support for object-oriented, imperative, and functional programming styles enhances its versatility. wordCounts : 12

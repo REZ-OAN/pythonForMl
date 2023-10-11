@@ -29,7 +29,7 @@ Your feedback is crucial. If you have questions, suggestions, or want to discuss
 
 ## Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/rezoan-ahmed-abir-2ba462279/))
+- [LinkedIn](https://www.linkedin.com/in/rezoan-ahmed-abir-2ba462279/)
 
 
 Thank you for your interest, and happy coding!
